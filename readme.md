@@ -74,22 +74,3 @@ The dataset includes information on 143,727 borrowers, including attributes such
 
 ---
 
-## Concepts Explored
-
-1. Credit risk assessment
-2. Understand “default” using Roll Rate Analysis
-3. Importance of “days past due” or “dpd” in credit risk
-4. Exploratory data analysis for categorical target variable
-5. Target Encoding and why is it preference over other encoding techniques
-6. Feature Selection with Random Forest and Deep Decision Tree
-7. LightGBM and optimize its parameters
-8. Hyperopt
-9. Model selection on the basis of metrics such as ROC AUC, and PR AUC.
-10. Split and Gain its use for Feature Importance
-11. SHAP
-12. Visualize Feature Importance with SHAP
-13. Class Rate Curve
-14. Choosing the right threshold for minimum credit loss.
-
----
-
